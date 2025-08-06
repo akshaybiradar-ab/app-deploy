@@ -1,6 +1,6 @@
 """
 --------------------------------------------
-Python file with and without linting error 
+Python file with and without linting error.
 --------------------------------------------
 # Linting Error
 def greet(name):
